@@ -6,12 +6,12 @@ Bem-vindo ao repositório do projeto EduLynx! Aqui você encontrará todos os ar
 
 
 
-Sobre o Projeto
+# Sobre o Projeto
 
 A EduLynx é uma plataforma de ensino online que tem como objetivo proporcionar uma experiência de aprendizado excepcional para estudantes de todas as idades. Nosso objetivo é fornecer recursos educacionais abrangentes e personalizados para ajudar os alunos a expandir seus conhecimentos, aprimorar suas habilidades e alcançar o sucesso acadêmico e profissional.
 
 
-Recursos
+# Recursos
 Tela de onboarding interativa e envolvente (feito)
 Biblioteca de cursos abrangente em diversas áreas de estudo (pendente)
 Recursos interativos, como quizzes e exercícios práticos (pendente)
@@ -22,7 +22,8 @@ Suporte dedicado para ajudar os alunos em sua jornada de aprendizado (pendente)
 
 
 
-Como Contribuir
+# Como Contribuir
+
 Adoraríamos receber sua contribuição para tornar a EduLynx ainda melhor! Se você deseja contribuir com este projeto, siga as etapas abaixo:
 
 1.Faça um fork deste repositório
@@ -34,7 +35,7 @@ Adoraríamos receber sua contribuição para tornar a EduLynx ainda melhor! Se v
 
 
 
-Como Executar o Projeto
+# Como Executar o Projeto
 Para executar o projeto em sua máquina local, siga as etapas abaixo:
 
 1.Clone este repositório em sua máquina local usando o comando:
@@ -46,7 +47,7 @@ git clone https://github.com/CesaltinoFelix/onboard_screen_ui_day_1
 5.Certifique-se de fornecer quaisquer requisitos ou dependências adicionais necessárias para executar o projeto.
 
 
-#Contato
+# Contato
 Se você tiver alguma dúvida ou sugestão em relação ao projeto, sinta-se à vontade para entrar em contato comigo. Você pode encontrar-me nos seguintes canais:
 
 Email: cesaltinofelix2000@gmail.com
