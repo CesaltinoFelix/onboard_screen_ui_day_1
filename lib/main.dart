@@ -198,7 +198,7 @@ Widget onboardItem({title, imagePath, content}) {
         ),
         Text(
           content,
-          style: TextStyle(
+          style: const TextStyle(
             color: Colors.white,
             fontSize: 15,
           ),
